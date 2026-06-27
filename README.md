@@ -1,6 +1,6 @@
 <div align="center">
 
-# Advanced RAG Chatbot
+# RAG Chatbot
 
 **A production-grade Retrieval-Augmented Generation system with multi-step LLM pipeline, hybrid search, and real-time trace visibility.**
 

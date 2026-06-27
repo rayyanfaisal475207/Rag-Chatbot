@@ -219,7 +219,6 @@ Every step of every pipeline run is written to a **normalized SQLite database** 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/advanced-rag-chatbot.git
 cd advanced-rag-chatbot
 
 # Create virtual environment

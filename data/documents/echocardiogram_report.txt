@@ -1,0 +1,17 @@
+EXAM: Transthoracic Echocardiogram (TTE)
+INDICATION: 68-year-old male with history of uncontrolled hypertension, presenting with exertional dyspnea.
+
+FINDINGS:
+1. Left Ventricle: The left ventricle is normal in size but exhibits moderate concentric hypertrophy, consistent with chronic hypertensive heart disease. Global systolic function is preserved. The estimated left ventricular ejection fraction (LVEF) is 55-60%. There are no regional wall motion abnormalities at rest.
+2. Left Atrium: Mildly dilated (volume index 38 mL/m2).
+3. Right Ventricle: Normal in size and systolic function. TAPSE is 2.2 cm.
+4. Valves: 
+   - Aortic Valve: Trileaflet with mild sclerosis. No aortic stenosis. Trace aortic regurgitation.
+   - Mitral Valve: Mild annular calcification. Trace mitral regurgitation.
+   - Tricuspid Valve: Structurally normal. Trace tricuspid regurgitation. Estimated RVSP is 28 mmHg, suggesting normal pulmonary artery pressures.
+5. Pericardium: No pericardial effusion.
+
+IMPRESSION:
+- Moderate concentric left ventricular hypertrophy with preserved systolic function (LVEF 55-60%).
+- Mild left atrial enlargement, likely secondary to diastolic dysfunction from LVH.
+- No significant valvular heart disease.

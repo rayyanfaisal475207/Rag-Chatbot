@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Systolic_BP,Diastolic_BP,Heart_Rate,LDL_Cholesterol,Hypertension_Stage
+PT-901,45,M,135,85,72,110,Stage 1
+PT-902,62,F,155,92,68,145,Stage 2
+PT-903,58,M,118,78,65,95,Normal
+PT-904,71,F,142,88,80,130,Stage 2
+PT-905,39,M,125,79,74,105,Elevated
+PT-906,51,F,160,98,82,160,Stage 2
+PT-907,66,M,138,82,70,115,Stage 1
+PT-908,54,F,115,75,62,85,Normal
+PT-909,48,M,128,81,76,120,Elevated
+PT-910,75,F,148,89,75,135,Stage 2
